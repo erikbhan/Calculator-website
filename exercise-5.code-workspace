@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "calculator"
+		},
+		{
+			"path": "api"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
